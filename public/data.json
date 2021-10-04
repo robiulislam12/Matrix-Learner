@@ -27,7 +27,7 @@
       "third": "Experience with any design convert HTML"
     },
     "img": "https://shikhun.net/wp-content/uploads/2019/07/one-fifty.jpg",
-    "courseAuthorName": "Rasel Ahamed",
+    "courseAuthorName": "Golam Rabbani",
     "CourseLevel": "Intermediate",
     "requirement": "Learn how to work code editor"
   },
@@ -38,7 +38,7 @@
     "totalStudents": 2354,
     "courseLength": "20 Hours",
     "img": "https://shikhun.net/wp-content/uploads/2019/07/psd-to-html.jpg",
-    "courseAuthorName": "Rasel Ahamed",
+    "courseAuthorName": "Zonayed Ahamed",
     "CourseLevel": "Intermediate",
     "requirement": "Learn how to work code editor"
   },
@@ -54,8 +54,8 @@
       "third": "Start JavaScript with basic",
       "fouth": "Also learn React"
     },
-    "img": "https://shikhun.net/wp-content/uploads/2019/07/one-fifty.jpg",
-    "courseAuthorName": "Rasel Ahamed",
+    "img": "https://shikhun.net/wp-content/uploads/2019/07/js.jpg",
+    "courseAuthorName": "Ali Hosain",
     "CourseLevel": "Intermediate",
     "requirement": "Learn how to work code editor"
   },
@@ -70,7 +70,7 @@
       "second": "Absolute Beginner"
     },
     "img": "https://shikhun.net/wp-content/uploads/2019/07/php-basica.jpg",
-    "courseAuthorName": "Rasel Ahamed",
+    "courseAuthorName": "Jhankar Mahabub",
     "CourseLevel": "Intermediate",
     "requirement": "Learn how to work programming language"
   },
@@ -88,8 +88,53 @@
       "five": "PHP OOP"
     },
     "img": "https://shikhun.net/wp-content/uploads/2020/05/b-1.jpg",
-    "courseAuthorName": "Rasel Ahamed",
+    "courseAuthorName": "Sumit Saha",
     "CourseLevel": "Intermediate",
     "requirement": "Install PHP Composer"
+  },
+  {
+    "id": 7,
+    "courseName": "Shopify Theme Development",
+    "rating": 4.57,
+    "totalStudents": 1787,
+    "courseLength": "5 Hours",
+    "whatWillLearn": {
+      "first": "Basic Shopify Structure",
+      "second": "Known Shopify Interface"
+    },
+    "img": "https://shikhun.net/wp-content/uploads/2019/07/shipify.jpg",
+    "courseAuthorName": "HM Nayem ",
+    "CourseLevel": "Intermediate",
+    "requirement": "HTML, CSS, JQuery"
+  },
+  {
+    "id": 8,
+    "courseName": "Basic Theme Development",
+    "rating": 4.71,
+    "totalStudents": 1975,
+    "courseLength": "25 Hours",
+    "whatWillLearn": {
+      "first": "Basic Wordpress theme Structure",
+      "second": "Known Wordpress Interface"
+    },
+    "img": "https://shikhun.net/wp-content/uploads/2019/07/wp-basic.jpg",
+    "courseAuthorName": "Abdullah Nahaiyan ",
+    "CourseLevel": "Intermediate",
+    "requirement": "Advanced HTML & CSS, JQuery, Basic PHP"
+  },
+  {
+    "id": 9,
+    "courseName": "Wordpress Malware",
+    "rating": 5,
+    "totalStudents": 1478,
+    "courseLength": "25 Hours",
+    "whatWillLearn": {
+      "first": "Return Website from hacker",
+      "second": "why site hack?"
+    },
+    "img": "https://shikhun.net/wp-content/uploads/2019/07/maxresdefault-1.jpg",
+    "courseAuthorName": "Rasel Ahamed",
+    "CourseLevel": "Intermediate",
+    "requirement": "Advanced Wordpress Developer"
   }
 ]

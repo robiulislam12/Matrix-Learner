@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
+import Details from "./components/pages/Details";
 import Home from "./components/pages/Home";
 import NotFound from "./components/pages/NotFound";
 import Services from "./components/pages/Services";
@@ -26,6 +27,9 @@ function App() {
               </Route>
               <Route path="/services">
                 <Services/>
+              </Route>
+              <Route path="/service/details/:detailsID">
+                <Details/>
               </Route>
               <Route path="/contact">
                 <Contact/>
