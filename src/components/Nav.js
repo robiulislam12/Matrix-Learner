@@ -12,7 +12,7 @@ export default function Nav() {
     return (
         <NavBar sx={{p:2}}>
         <Link to="/">
-             <div>
+             <div style={{marginLeft: "-15px"}}>
                  <Typography variant="h4" sx={{ fontWeight: 'bold' }}>
                     Matrix
                  </Typography>

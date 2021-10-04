@@ -1,7 +1,15 @@
 import { TextField } from '@mui/material';
+import Img from '../../assets/contact2.svg';
+import HeroArea from '../HeroArea';
 
 export default function Contact() {
     return (
+        <>
+            <HeroArea text="Contact Us" img={Img}>
+                <p>
+                    Stay Connect With us
+                </p>
+            </HeroArea>
         <div>
              <TextField
                 fullWidth
@@ -28,5 +36,6 @@ export default function Contact() {
                 variant="standard"
             />
         </div>
+        </>
     )
 }

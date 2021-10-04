@@ -46,3 +46,27 @@ h6 {
   background-color: #202124;
   color: #fff;
 }
+
+/* Hero Area Section */
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hero-section img {
+  width: 500px;
+}
+.hero-content {
+  padding-right: 40px;
+}
+.hero-content h1 {
+  font-size: 40px;
+}
+.hero-content p {
+  font-size: 18px;
+  margin: 20px 0;
+}
+.hero-content span {
+  color: tomato;
+  font-size: 32px;
+}
